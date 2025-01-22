@@ -46,11 +46,8 @@ Azure Databricks: The course focuses on using PySpark and Spark SQL within Azure
 Delta Lake and Lakehouse Architecture: Implementing a modern data architecture for reliable, scalable data lakes.
 Azure Data Factory: Automating and orchestrating workflows for data pipelines.
 Power BI: Connecting to Databricks data for reporting and visualization.
-Who This Course Is For:
-University students aiming for a career in Data Engineering
-IT developers transitioning to Data Engineering
-Data Engineers/Data Warehouse Developers familiar with on-prem or other cloud platforms (AWS/GCP) looking to learn Azure Data Technologies
-Data Architects seeking an understanding of the Azure Data Engineering stack
+
+
 Prerequisites:
 Basic Python programming experience
 Basic SQL knowledge
