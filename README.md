@@ -48,16 +48,7 @@ Azure Data Factory: Automating and orchestrating workflows for data pipelines.
 Power BI: Connecting to Databricks data for reporting and visualization.
 
 
-Prerequisites:
-Basic Python programming experience
-Basic SQL knowledge
-Familiarity with cloud concepts (beneficial, but not necessary)
-An Azure subscription (you can create a free account in the course)
-Certification Path:
-This course prepares you for the following certification exams:
 
-Azure Data Engineer Associate (DP-203)
-Databricks Certified Data Engineer Associate
 Project Overview:
 The course covers a real-world project using Formula1 motor racing data, allowing you to build and implement a data engineering solution in Azure Databricks. You will work with Azure Data Lake Storage, Spark Core, Delta Lake, and other Azure tools for ingestion, transformation, and reporting.
 
