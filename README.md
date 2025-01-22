@@ -1,6 +1,10 @@
 Azure Databricks & Spark Core for Data Engineering
 This repository contains resources for a comprehensive course on building data engineering solutions using Azure Databricks and Spark Core. The course is designed to help you build a real-world data project based on Formula1 motor racing data using modern cloud technologies like Azure Data Lake Storage Gen2, Azure Data Factory, Power BI, and Delta Lake.
 
+Project Overview:
+The course covers a real-world project using Formula1 motor racing data, allowing you to build and implement a data engineering solution in Azure Databricks. You will work with Azure Data Lake Storage, Spark Core, Delta Lake, and other Azure tools for ingestion, transformation, and reporting.
+
+
 Key Technologies Covered:
 Azure Databricks:
 
@@ -49,10 +53,5 @@ Power BI: Connecting to Databricks data for reporting and visualization.
 
 
 
-Project Overview:
-The course covers a real-world project using Formula1 motor racing data, allowing you to build and implement a data engineering solution in Azure Databricks. You will work with Azure Data Lake Storage, Spark Core, Delta Lake, and other Azure tools for ingestion, transformation, and reporting.
 
-Course Structure:
-Fast-paced and to-the-point approach, with practical assignments and hands-on lessons
-No jargon, with simple English used throughout
-Step-by-step guide to using Azure Databricks and Spark Core for data engineering
+
